@@ -1,0 +1,59 @@
+
+
+.body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: #28A745!important;
+    color: white;
+}
+
+.h1{
+    margin-left: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-link{
+    color: white!important;
+}
+
+.item{
+    display: flex;
+    justify-content:space-around;
+}
+
+.precio{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+}
+
+.p1{
+    color: #28A745;
+    margin-left: 11px;
+    font-size: 20pt;
+}
+
+.contacto{
+    background-color: #28A745!important;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 21pt;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
